@@ -7,6 +7,7 @@ import time
 
 domain = 'http://detail.zol.com.cn/'
 
+# 爬取4G & 5G的手机
 basic_url =  domain + 'cell_phone_advSearch/subcate57_1_s8237-s528_9_1__'
 
 # page_number = 1
